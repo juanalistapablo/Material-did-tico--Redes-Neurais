@@ -1,0 +1,16 @@
+txt
+✅ Instruções de uso no Google Colab
+Crie um novo notebook no Google Colab: https://colab.research.google.com
+
+No primeiro bloco de código, instale os pacotes com:
+
+python
+
+!pip install numpy
+!pip install matplotlib
+
+🔁 Dica: como o Colab já vem com numpy e matplotlib pré-instalados, este passo é opcional lá — mas essencial caso você queira rodar o código localmente.
+
+Copie e cole o código Python do MLP XOR no próximo bloco e execute normalmente.
+
+Se quiser, posso te ajudar a montar uma versão .ipynb já com tudo pronto. 
